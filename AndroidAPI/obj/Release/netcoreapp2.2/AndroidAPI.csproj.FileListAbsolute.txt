@@ -1,0 +1,14 @@
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\bin\Release\netcoreapp2.2\AndroidAPI.deps.json
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\bin\Release\netcoreapp2.2\AndroidAPI.runtimeconfig.json
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\bin\Release\netcoreapp2.2\AndroidAPI.runtimeconfig.dev.json
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\bin\Release\netcoreapp2.2\AndroidAPI.dll
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\bin\Release\netcoreapp2.2\AndroidAPI.pdb
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\obj\Release\netcoreapp2.2\AndroidAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\obj\Release\netcoreapp2.2\AndroidAPI.RazorAssemblyInfo.cache
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\obj\Release\netcoreapp2.2\AndroidAPI.RazorAssemblyInfo.cs
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\obj\Release\netcoreapp2.2\AndroidAPI.AssemblyInfoInputs.cache
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\obj\Release\netcoreapp2.2\AndroidAPI.AssemblyInfo.cs
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\obj\Release\netcoreapp2.2\AndroidAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\obj\Release\netcoreapp2.2\AndroidAPI.dll
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\obj\Release\netcoreapp2.2\AndroidAPI.pdb
+C:\Users\Jamie\Desktop\AndroidAPI\AndroidAPI\obj\Release\netcoreapp2.2\AndroidAPI.csprojAssemblyReference.cache
